@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Dancing+Script&display=swap');
+
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    /* padding: 2px; */
+    color: black;
+    margin-top: 0px;
+    text-align: center;
+}
+
+.heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+    margin-top: 0px;
+}
+.ag-theme-alpine .ag-cell {
+  min-height: 20px;
+  display: flex;
+  align-items: center;
+  font-size: 13px;
+}
+.ag-theme-alpine .custom-edit-button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 4px;
+  display: inline-block;
+  
+}
+
+
+
+.ag-theme-alpine {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.action-button {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

@@ -1,0 +1,35 @@
+/* NavBar.css */
+@import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Dancing+Script&display=swap');
+
+nav {
+    padding: 1px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100%;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    display:flex;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  li {
+ 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 13px;
+    padding: 4px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: rgb(255, 247, 247);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    display: inline-block;
+  }
+
+  a:hover {
+    border-bottom: 1px solid rgb(119, 119, 119);
+  }
+  

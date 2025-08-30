@@ -1,0 +1,10 @@
+.loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    margin: 0;
+    font-size: 30px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
